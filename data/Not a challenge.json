@@ -1,0 +1,18 @@
+{
+    "id": 62962709,
+    "name": "Not a challenge",
+    "author": "deltonaX",
+    "creators": ["deltonaX"],
+    "verifier": "deltonaX",
+    "verification": "",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Sample_Victor_1",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
