@@ -1,0 +1,18 @@
+{
+    "id": 81345072,
+    "name": "jeeb",
+    "author": "RedMatrix",
+    "creators": ["RedMatrix"],
+    "verifier": "RedMatrix",
+    "verification": "",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Sample_Victor_1",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
