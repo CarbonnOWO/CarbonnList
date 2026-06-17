@@ -1,0 +1,18 @@
+{
+    "id": 83744643,
+    "name": "Perkele",
+    "author": "Lor2000",
+    "creators": ["Lor2000"],
+    "verifier": "Lor2000",
+    "verification": "",
+    "percentToQualify": 100,
+    "password": "Not Allowed",
+    "records": [
+        {
+            "user": "Sample_Victor_1",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
