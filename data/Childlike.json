@@ -1,0 +1,18 @@
+{
+    "id": 80878937,
+    "name": "Childlike",
+    "author": "Aespha3",
+    "creators": ["Aespha3"],
+    "verifier": "Aespha3",
+    "verification": "",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Sample_Victor_1",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
