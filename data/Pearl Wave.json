@@ -1,0 +1,18 @@
+{
+    "id": 84861114,
+    "name": "Pearl Wave",
+    "author": "jadedanlop",
+    "creators": ["jadedanlop"],
+    "verifier": "jadedanlop",
+    "verification": "",
+    "percentToQualify": 100,
+    "password": "209127",
+    "records": [
+        {
+            "user": "Sample_Victor_1",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
